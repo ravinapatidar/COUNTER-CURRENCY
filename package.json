@@ -44,7 +44,7 @@
     "array.prototype.tosorted": "^1.1.4",
     "arraybuffer.prototype.slice": "^1.0.4",
     "asap": "^2.0.6",
-    "ast-types-flow": "^0.0.8",
+    "ast-types-flow": "^0.0.8", 
     "async": "^3.2.6",
     "async-function": "^1.0.0",
     "asynckit": "^0.4.0",

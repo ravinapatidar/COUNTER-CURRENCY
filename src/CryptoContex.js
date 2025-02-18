@@ -16,6 +16,7 @@ const CryptoContex = ({children}) => {
     <Crypto.Provider value={{currency,symbol,setCurrency}}>
         {children}
     </Crypto.Provider>
+    
   );
 }
 
